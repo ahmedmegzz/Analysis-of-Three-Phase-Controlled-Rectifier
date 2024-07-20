@@ -1,4 +1,4 @@
 # Analysis-of-Three-Phase-Controlled-Rectifier
 This project focuses on investigating a three-phase controlled rectifier circuit using MATLAB/Simulink. The circuit includes a three-phase power source, six thyristors arranged in a six-pulse configuration, a filtering capacitor, a diode for rectification, and a resistive load. By using mathematical modeling and simulations, the study examines how the circuit behaves under different conditions. The goal is to analyze the performance characteristics and efficiency of the circuit, providing useful insights for practical applications in power electronics.
 
-![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://media.licdn.com/dms/image/D4D2DAQG3v-sv-6vWwA/profile-treasury-image-shrink_800_800/0/1721471192061?e=1722078000&v=beta&t=j8E-w4VqDvkhPB5pdjH8hlgZz2KwvN5UcEQbNYAFDHY) "signal")
+<img title="a title" alt="Alt text" src="/img/signal.png">
